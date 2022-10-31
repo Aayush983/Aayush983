@@ -3,7 +3,7 @@
 </h1>
 <h4 align="left">I am a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</h4>
 - :seedling: I’m currently learning **MERN STACK**
-- :male-technologist: Take a peek at my [projects](https://aayush.netlify.app/)
+- :male-technologist: Take a peek at my [projects](https://aayush983.github.io/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aayush-kumar-2bb637218/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nidhi" height="30" width="40" /></a>
