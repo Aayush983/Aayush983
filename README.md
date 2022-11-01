@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aayush kumar</h1>
 <h3 align="center">I am a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</h3>
-
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;React+Developer;Quick+learner;MERN+Developer;&right=true&width=400&height=50">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush983&label=Profile%20views&color=0e75b6&style=flat" alt="aayush983" /> </p>
 
 - 🌱 I’m currently learning ****MERN STACK****
+- I made this project with my team. [Intern theory Clone website](https://frolicking-macaron-68e3c3.netlify.app/)
+- I made this project with my team. [Intern theory Clone website](https://scintillating-clafoutis-dbade0.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://aayush983.github.io/](https://aayush983.github.io/)
 
@@ -25,6 +28,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush983&hide=php&layout=compact&theme=radical" alt="aayush" height="50%" width="50%" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aayush983&show_icons=true&locale=en&theme=radical" alt="aayush" height="50%" width="50%" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayush983&theme=radical" alt="aayush" height="50%" width="50%"/></p>
-
-
-
