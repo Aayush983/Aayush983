@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning ****MERN STACK****
 - I made this project with my team. [Intern theory Clone website](https://frolicking-macaron-68e3c3.netlify.app/)
-- I made this project with my team. [Intern theory Clone website](https://scintillating-clafoutis-dbade0.netlify.app/)
+- I made this project . [Intern theory Clone website](https://scintillating-clafoutis-dbade0.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://aayush983.github.io/](https://aayush983.github.io/)
 
