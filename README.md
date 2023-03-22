@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aayush kumar</h1>
 <h3 align="center">I am a Tech Support Engineer.</h3>
-<img src="https://readme-typing-svg.herokuapp.com/?lines=TECH+Support+Engineer;React+Developer;Quick+learner;MERN+Developer;&right=true&width=400&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=TECH+Support+Engineer;&right=true&width=400&height=50">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush983&label=Profile%20views&color=0e75b6&style=flat" alt="aayush983" /> </p>
 
 - 🌱 I’m currently learning ****MERN STACK****
