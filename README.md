@@ -31,4 +31,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayush983&theme=radical" alt="aayush" height="50%" width="50%"/></p>
 
 
-<a href="https://github.com/Aayush983/github-readme-activity-graph"><img alt="Aayush's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aayush983&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/Aayush983/github-readme-activity-graph"><img alt="Aayush's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aayush983&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
