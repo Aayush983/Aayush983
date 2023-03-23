@@ -3,13 +3,13 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=TECH+Support+Engineer;&right=true&width=400&height=50">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush983&label=Profile%20views&color=0e75b6&style=flat" alt="aayush983" /> </p>
 
-- 🌱 I’m currently learning ****MERN STACK****
+- 🌱 I’m currently learning ****TECHNICAL SUPPORT ENGINEER****
 - I made this project with my team. [Intern theory Clone website](https://frolicking-macaron-68e3c3.netlify.app/)
 - I made this project individually. [Intern theory Clone website](https://scintillating-clafoutis-dbade0.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://aayush983.github.io/](https://aayush983.github.io/)
 
-- 💬 Ask me about **HTML CSS JAVASCRIPT REACT REDUX**
+- 💬 Ask me about **HTML CSS JAVASCRIPT SQL LINUX OS**
 
 - 📫 How to reach me **kumar456aayush@gmail.com**
 
